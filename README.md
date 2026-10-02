@@ -239,5 +239,3 @@ Security-Audit/
 ├── Controls-and-Compliance-Checklist
 │
 ├── Scope-Goals-Risk-Assessment
-│
-└── Screenshots
